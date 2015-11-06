@@ -2,10 +2,10 @@
 
 Redo project 2, using Objects (classes for Ball, Button, etc.)
 
-Table has four sides, plus a "wall" down the middle (as in the midterm exam).
-Use a "while" loop to display blades of grass evenly spaced along the bottom of the screen.  
-  * Use a "for" loop to display a random number of small clouds drifting left to right above the table.  
-  * (A new random number of clouds, from one to seven, is computed when clouds disappear to the right.)
+Table has four sides, plus a "wall" down the middle (as in the midterm exam).  
+ * Use a "while" loop to display blades of grass evenly spaced along the bottom of the screen.  
+ * Use a "for" loop to display a random number of small clouds drifting left to right above the table.  
+ (A new random number of clouds, from one to seven, is computed when clouds disappear to the right.)
 
 FIVE pool balls, each with a different color and a different number on it.  
 The "cue" ball is white, with no number; it starts at rest, in the middle of the LEFT half of the table.  
