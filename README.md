@@ -1,7 +1,6 @@
 # project-3:
 
-Redo project 2, using Objects (classes for Ball, Button, etc.)
-
+Redo project 2, using Objects (classes for Ball, Button, etc.)  
 Table has four sides, plus a "wall" down the middle (as in the midterm exam).  
  * Use a **while** loop to display blades of grass evenly spaced along the bottom of the screen.  
  * Use a **for** loop to display a random number of small clouds drifting left to right above the table.  
